@@ -1,0 +1,5 @@
+##grflangid 0x01
+
+# GRF name and description
+STR_GRF_NAME   :Better Busy Cursor
+STR_GRF_DESC   :{ORANGE}Better Busy Cursor{}{BLACK}Replacement busy cursor with arrow so you can actually see where you're clicking.{}

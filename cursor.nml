@@ -1,0 +1,12 @@
+//define the grf
+grf {
+    grfid: "CC\00\00";
+    name: string(STR_GRF_NAME);
+    desc: string(STR_GRF_DESC);
+    version: 0;
+    min_compatible_version: 0;
+}
+
+replace replace_busy_cursor (1, "gfx/cursor.png") {
+    [0,0,35,21,0,0]
+}
